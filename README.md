@@ -1,6 +1,9 @@
 # AI-Powered Customer Support Assistant
 
-A fully offline customer support assistant: **Flutter** frontend → **FastAPI** backend → **Ollama** (local LLM) → mock tools → dynamic UI.
+## Screenshots
+
+### Chat UI — Hotel Search
+![Hotel Search](screenshots/hotel_search.png)
 
 ---
 
