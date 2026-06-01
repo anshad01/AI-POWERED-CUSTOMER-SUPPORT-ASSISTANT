@@ -3,7 +3,9 @@
 ## Screenshots
 
 ### Chat UI — Hotel Search
-![Hotel Search](screenshots/hotel_search.png)
+
+<img width="1909" height="1023" alt="hotel_search" src="https://github.com/user-attachments/assets/ac937f95-2714-4ddd-9a48-15e1fe4805fc" />
+
 
 ---
 
