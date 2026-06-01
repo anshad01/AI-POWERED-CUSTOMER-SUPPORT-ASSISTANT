@@ -1,0 +1,30 @@
+# Claude
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.env
+
+# Flutter
+frontend/support_app/.dart_tool/
+frontend/support_app/build/
+frontend/support_app/.flutter-plugins
+frontend/support_app/.flutter-plugins-dependencies
+frontend/support_app/.pub-cache/
+frontend/support_app/.pub/
+frontend/support_app/.idea/
+frontend/support_app/*.iml
+frontend/support_app/analysis_options.yaml
+frontend/support_app/README.md
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
